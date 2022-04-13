@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu li{
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    list-style: none;
+}
